@@ -62,6 +62,12 @@ Berdasarkan *NLP pipeline* yang berhasil dibuat, berikut merupakan performa masi
 |Precision|0.83|
 |Recall|0.82|
 
+<br/>
+
+# Room for Improvement
+- Pemahaman domain promosi yang lebih komprehensif
+- Melakukan eksperimen dengan model lain
+- Meningkatkan variasi dan kuantitas dataset karena dataset yang digunakan masih sedikit
 
 
 
