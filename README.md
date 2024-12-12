@@ -12,7 +12,7 @@
   </p>
 </div>
 
-# Tentang Repository ini
+# Deskripsi Sistem
 Di era digital yang dipenuhi informasi, sistem inovatif ini hadir sebagai solusi cerdas untuk menavigasi konten promosi di platform X (Twitter). Sistem ini mampu **mengklasifikasikan** konten promosi, mengelompokkannya ke dalam kategori yang spesifik seperti makanan, kesehatan dan kecantikan atau lainnya. Setelah itu, mengekstrak informasi penting seperti produk, lokasi, platform dan lainnya dengan bantuan sistem *Named-entity recognition*. Hal ini dapat menggunakan pengguna untuk dengan cepat menemukan promosi yang relevan dengan minat mereka, tanpa harus terganggu oleh spam atau konten yang tidak relevan.
 
 # Requirement
