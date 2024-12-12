@@ -25,6 +25,45 @@ Library yang dibutuhkan pada program ini antara lain:
 * Sentence Transformers
 * Dataset
 
+# Hasil
+
+Berdasarkan *NLP pipeline* yang berhasil dibuat, berikut merupakan performa masing-masing task berdasarkan evaluasi terhadap dataset uji/*test set*:
+
+### Promo/Non-Promo Classification
+|Metrik|Nilai|
+|----|----|
+|Accuracy|0.98|
+|F1 Score|0.98|
+|Precision|0.98|
+|Recall|0.98|
+
+### Promo Category Classification
+|Metrik|Nilai|
+|----|----|
+|Accuracy|0.83|
+|F1 Score|0.82|
+|Precision|0.83|
+|Recall|0.82|
+
+### Promo Category Clustering
+|Metrik|Nilai|
+|----|----|
+|Jumlah cluster optimal (k)|7|
+|PCA Embedding Dimension Reduction|15|
+|Silhouette Score|0.57|
+|Sum of Squared Error|10000|
+|Precision|0.83|
+|Recall|0.82|
+
+### Named-Entity Recognition
+|Metrik|Nilai|
+|----|----|
+|F1 Score|0.82|
+|Precision|0.83|
+|Recall|0.82|
+
+
+
 
 # Anggota & Pembagian Tugas
 
