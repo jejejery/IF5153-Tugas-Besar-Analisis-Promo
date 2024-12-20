@@ -52,8 +52,6 @@ Berdasarkan *NLP pipeline* yang berhasil dibuat, berikut merupakan performa masi
 |PCA Embedding Dimension Reduction|15|
 |Silhouette Score|0.57|
 |Sum of Squared Error|10000|
-|Precision|0.83|
-|Recall|0.82|
 
 ### Named-Entity Recognition
 |Metrik|Nilai|
